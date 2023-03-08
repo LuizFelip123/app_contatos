@@ -1,7 +1,9 @@
 # app_contatos
 
 A new Flutter project.
-
+- Sqflite 
+- url_launcher
+- image_picker
 ## Getting Started
 
 This project is a starting point for a Flutter application.
